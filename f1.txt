@@ -1,7 +1,14 @@
-
 // Task : 1003
 
 a=100
 b=200
 c=b-a
 print(c)
+=======
+//These changes are belongs to Task: 1001
+
+a=100
+b=200
+c=a+b
+
+princt(c)
