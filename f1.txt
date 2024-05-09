@@ -12,3 +12,6 @@ b=200
 c=a+b
 
 princt(c)
+
+
+// Testing pull and fetch commands
