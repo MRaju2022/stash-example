@@ -9,3 +9,5 @@ print("The value of c is",+c)
 
 
 //practicing git clone vs git pull vs git fetch
+
+//git fetch will create new branch with changes
